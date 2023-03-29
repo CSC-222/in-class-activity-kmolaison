@@ -1,6 +1,4 @@
-Kaitlyn's first Project
-
-# CSC_222_Program
+# CSC_222_Program Kaitlyn's first project
 
 The purpose of this program is to provide a test environment for source control capabilities.  
 This project can be opened using JetBrains IntelliJ
